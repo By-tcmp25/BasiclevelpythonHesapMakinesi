@@ -83,3 +83,9 @@ elif islem == "yüzde bulma":
     print("sonuç:",(sayi1*sayi2)/100)
 else:                                                                  # BURDA KULLANICI YANLIŞ GİRERSE YAZIYOR YANİ ELSE.
     print("geçersiz işlem  yaptınız")                                   # KULLANICI YANLIŞ GİRDİĞİNDE GEÇERSİZ İŞLEM YAPTINIZ ÇIKTISI VERCEKTİR.
+    
+    
+    
+    
+    
+    
